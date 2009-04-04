@@ -16,7 +16,7 @@
 	
     <property name="APP_VERSION_MAJOR" value="1"/>
     <property name="APP_VERSION_MINOR" value="0"/>
-    <property name="APP_VERSION_BUILD" value="32"/>
+    <property name="APP_VERSION_BUILD" value="33"/>
 
 	<!-- <import file="${DANGER_HOME}/tools/precompile.xml"/> -->
 	<import file="${DANGER_HOME}/tools/proguard.xml"/>
